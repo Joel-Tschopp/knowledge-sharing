@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Principle;
 
 
 /**
@@ -12,6 +12,7 @@ package DesignPattern;
  * 	 + implement new extension and use but existing code without touching it
  */
 
+/*
 // Before
 // For every new Hash method is a new else if needed which is apparently not a nice solution and breaks the OCP
 class HashPassword {
@@ -53,3 +54,4 @@ class Base64Hasher implements PasswordHasher
         return "hashed with 64";
     }
 }
+*/

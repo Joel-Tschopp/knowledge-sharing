@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Principle;
 
 /**
  * Liskov Substitution Principle (LSP)
@@ -9,6 +9,7 @@ package DesignPattern;
  * 	 + main is generic usable
  */
 
+/*
 // Before
 // In this Example the Penguin could fly because he is a bird. But that ain't the case
 class Bird {
@@ -44,3 +45,4 @@ class FlyingBird extends Bird{
 class Dove extends FlyingBird{}
 
 class Penguin extends Bird{ }
+*/

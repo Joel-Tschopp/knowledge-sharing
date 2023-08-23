@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Principle;
 
 /**
  * Dependency Inversion Principle (DIP)
@@ -12,7 +12,7 @@ package DesignPattern;
  *
  * 	 + in case of code change in the storage not every usage has to be rebuild
  */
-
+/*
 // Before
 
 // low level
@@ -104,3 +104,4 @@ class ElectricPowerSwitch implements Switch {
         }
     }
 }
+*/

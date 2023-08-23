@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Principle;
 
 /**
   * Single Responsibility Principle (SRP)
@@ -11,7 +11,7 @@ package DesignPattern;
  *   + code is easier to refactor
  *   + code is more readable
  */
-
+/*
 // Before
 // This class is an overkill since it hashes and saves the password. Those are two completely different concerns
 class PasswordHasher
@@ -42,3 +42,4 @@ class SavePassword {
         //save to the db
     }
 }
+*/

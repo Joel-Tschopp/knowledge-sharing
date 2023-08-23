@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Principle;
 
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
@@ -13,7 +13,7 @@ import sun.reflect.generics.reflectiveObjects.NotImplementedException;
  * 	 + don't have unused Methods
  * 	 + better naming
  */
-
+/*
 // Before
 // In this example the PasswordHasher interface is implemented into a class which doesnt need every method.
 interface PasswordHasher
@@ -61,3 +61,5 @@ class Base64Hasher implements PasswordHasher
         return "decoded from base64";
     }
 }
+
+*/
